@@ -1,0 +1,30 @@
+UDLAIoT ESP32 virtual
+Dispositivo: ESP32-principal-pruebas
+[MQTT] Conectado a localhost:11883
+[MQTT] Escuchando nexiot/devices/ebd4ffca-d551-42de-876b-e48888d99d76/commands/#
+[SENSORES] Temperatura 24.79 °C · Humedad 67.48 %
+[SENSORES] Temperatura 25.14 °C · Humedad 68.41 %
+[SENSORES] Temperatura 25.28 °C · Humedad 69.10 %
+[SENSORES] Temperatura 25.56 °C · Humedad 68.90 %
+[SENSORES] Temperatura 25.98 °C · Humedad 69.59 %
+[SENSORES] Temperatura 26.10 °C · Humedad 70.26 %
+[SENSORES] Temperatura 26.16 °C · Humedad 70.90 %
+[SENSORES] Temperatura 26.35 °C · Humedad 71.02 %
+[SENSORES] Temperatura 26.30 °C · Humedad 71.01 %
+[SENSORES] Temperatura 26.28 °C · Humedad 71.99 %
+[SENSORES] Temperatura 26.09 °C · Humedad 71.65 %
+[SENSORES] Temperatura 26.05 °C · Humedad 72.03 %
+[SENSORES] Temperatura 26.05 °C · Humedad 71.65 %
+[SENSORES] Temperatura 25.87 °C · Humedad 72.06 %
+[SENSORES] Temperatura 25.45 °C · Humedad 72.05 %
+[SENSORES] Temperatura 25.37 °C · Humedad 71.88 %
+[SENSORES] Temperatura 24.96 °C · Humedad 71.60 %
+[SENSORES] Temperatura 24.82 °C · Humedad 70.92 %
+[SENSORES] Temperatura 24.47 °C · Humedad 70.61 %
+[SENSORES] Temperatura 24.09 °C · Humedad 70.58 %
+[SENSORES] Temperatura 23.82 °C · Humedad 69.86 %
+[SENSORES] Temperatura 23.57 °C · Humedad 69.42 %
+[SENSORES] Temperatura 23.20 °C · Humedad 69.43 %
+[SENSORES] Temperatura 23.25 °C · Humedad 68.53 %
+[SENSORES] Temperatura 22.84 °C · Humedad 67.66 %
+[SENSORES] Temperatura 22.83 °C · Humedad 67.47 %

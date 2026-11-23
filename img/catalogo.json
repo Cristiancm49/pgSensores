@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "placas": {
+    "esp32_devkit": {
+      "nombre": "ESP32 DevKit",
+      "principal": "placas/placa-de-desarrollo-esp32-sobre-fondo-transparente-1.png",
+      "alternativas": ["placas/placa-esp32-sobre-fondo-transparente.png"]
+    },
+    "esp32_s3": {
+      "nombre": "ESP32-S3",
+      "principal": "placas/placa-esp32-s3-con-blindaje-rf-2.png"
+    },
+    "esp32_cam": {
+      "nombre": "ESP32-CAM",
+      "principal": "placas/placa-esp32-cam-con-camara-y-usb-3.png"
+    },
+    "esp8266_nodemcu": {
+      "nombre": "NodeMCU ESP8266",
+      "principal": "placas/placa-nodemcu-esp8266-sobre-fondo-transparente-4.png"
+    },
+    "arduino_uno": {
+      "nombre": "Arduino Uno R3",
+      "principal": "placas/placa-arduino-uno-r3-azul-1.png"
+    },
+    "arduino_mega": {
+      "nombre": "Arduino Mega 2560",
+      "principal": "placas/placa-arduino-mega-2560-azul-2.png"
+    },
+    "arduino_nano": {
+      "nombre": "Arduino Nano",
+      "principal": "placas/placa-arduino-nano-azul-en-detalle-3.png"
+    },
+    "arduino_nano_33_iot": {
+      "nombre": "Arduino Nano 33 IoT",
+      "principal": "placas/placa-arduino-nano-33-iot-azul-4.png"
+    },
+    "raspberry_pi_pico_w": {
+      "nombre": "Raspberry Pi Pico W",
+      "principal": "placas/placa-raspberry-pi-pico-w-detallada-1.png"
+    },
+    "raspberry_pi_5": {
+      "nombre": "Raspberry Pi 5",
+      "principal": "placas/raspberry-pi-5-sobre-fondo-transparente-2.png",
+      "alternativas": ["placas/raspberry-pi-5-y-sus-componentes-3.png"]
+    },
+    "stm32_blue_pill": {
+      "nombre": "STM32 Blue Pill",
+      "principal": "placas/placa-azul-stm32-sobre-fondo-transparente-3.png"
+    }
+  },
+  "sensores": {
+    "dht22": {
+      "nombre": "DHT22 / AM2302",
+      "principal": "sensores/sensor-dht22-sobre-pcb-azul-1.png",
+      "alternativas": [
+        "sensores/sensor-dht22-am2302-en-pcb-1.png",
+        "sensores/sensor-dht22-con-cable-tricolor-6.png",
+        "sensores/sensor-dht22-en-pcb-negro-10.png"
+      ]
+    },
+    "bh1750": {
+      "nombre": "BH1750",
+      "principal": "sensores/modulo-sensor-de-luz-bh1750-azul-2.png",
+      "alternativas": ["sensores/modulo-sensor-bh1750-azul.png"]
+    },
+    "bmp280": {
+      "nombre": "BMP280",
+      "principal": "sensores/modulo-sensor-bmp280-azul-transparente-3.png",
+      "alternativas": ["sensores/modulo-sensor-bmp280-morado.png"]
+    },
+    "bme280": {
+      "nombre": "BME280",
+      "principal": "sensores/modulo-sensor-bme280-azul-sobre-transparente-4.png",
+      "alternativas": [
+        "sensores/sensor-bme280-azul-en-pcb-1.png",
+        "sensores/modulo-sensor-bme280-morado-2.png"
+      ]
+    },
+    "bmp180": {
+      "nombre": "BMP180",
+      "principal": "sensores/placa-sensora-bmp180-azul-3.png"
+    },
+    "soil_moisture_capacitive": {
+      "nombre": "Humedad de suelo capacitiva",
+      "principal": "sensores/sensor-de-humedad-capacitivo-azul-y-negro-5.png"
+    },
+    "soil_moisture_resistive": {
+      "nombre": "Humedad de suelo resistiva",
+      "principal": "sensores/modulo-sensor-de-humedad-del-suelo-4.png",
+      "alternativas": ["sensores/sensor-de-humedad-de-suelo-verde-7.png"]
+    },
+    "ds18b20": {
+      "nombre": "DS18B20",
+      "principal": "sensores/sensor-de-temperatura-ds18b20-enrollado-4.png",
+      "alternativas": [
+        "sensores/sonda-de-temperatura-con-cable-enrollado-8.png",
+        "sensores/sonda-de-temperatura-con-cable-negro-enrollado-5.png"
+      ]
+    },
+    "hc_sr04": {
+      "nombre": "HC-SR04",
+      "principal": "sensores/modulo-sensor-ultrasonico-azul-hc-sr04-9.png",
+      "alternativas": ["sensores/sensor-ultrasonico-hc-sr04-en-primer-plano-5.png"]
+    },
+    "pir_hc_sr501": {
+      "nombre": "PIR HC-SR501",
+      "principal": "sensores/modulo-sensor-pir-hc-sr501-6.png"
+    },
+    "mq2": {
+      "nombre": "MQ-2",
+      "principal": "sensores/modulo-sensor-de-gas-mq-2-azul-1.png",
+      "alternativas": ["sensores/modulo-sensor-de-gas-mq-2-azul-4.png"]
+    },
+    "mq135": {
+      "nombre": "MQ-135",
+      "principal": "sensores/modulo-sensor-de-calidad-del-aire-mq-135-5.png",
+      "alternativas": ["sensores/modulo-sensor-de-gas-mq-135-azul-1.png"]
+    },
+    "ldr": {
+      "nombre": "Fotorresistor LDR",
+      "principal": "sensores/fotorresistor-ldr-con-pistas-serpenteantes-2.png"
+    },
+    "rain": {
+      "nombre": "Sensor de lluvia",
+      "principal": "sensores/modulo-sensor-de-lluvia-en-pcb-azul-y-negro-3.png"
+    },
+    "water_level": {
+      "nombre": "Sensor de nivel de agua",
+      "principal": "sensores/modulo-sensor-de-nivel-de-agua-rojo-2.png"
+    },
+    "water_flow_yf_s201": {
+      "nombre": "Sensor de flujo YF-S201",
+      "principal": "sensores/sensor-de-flujo-de-agua-yf-s201-1.png",
+      "alternativas": [
+        "sensores/sensor-de-flujo-de-agua-con-conector-de-3-pines-1.png",
+        "sensores/sensor-de-flujo-de-agua-yf-s201-2.png"
+      ]
+    },
+    "ph": {
+      "nombre": "Sensor de pH",
+      "principal": "sensores/kit-de-sensor-de-ph-azul-y-modulo-pcb-2.png",
+      "alternativas": [
+        "sensores/kit-de-sensor-de-ph-con-modulo-pcb-1.png",
+        "sensores/kit-de-sensor-de-ph-con-modulo-pcb-2.png",
+        "sensores/kit-de-sensor-de-ph-con-modulo-pcb.png",
+        "sensores/kit-de-sensor-de-ph-con-placa-azul-2.png"
+      ]
+    },
+    "ec_tds": {
+      "nombre": "Conductividad EC/TDS",
+      "principal": "sensores/sonda-ec-tds-y-modulo-electronico-3.png",
+      "alternativas": ["sensores/kit-de-sensor-de-conductividad-ec-tds.png"]
+    },
+    "acs712": {
+      "nombre": "ACS712",
+      "principal": "sensores/modulo-sensor-de-corriente-acs712-azul-4.png",
+      "alternativas": [
+        "sensores/modulo-sensor-de-corriente-acs712-2.png",
+        "sensores/modulo-sensor-de-corriente-en-pcb-verde-1.png",
+        "sensores/modulo-sensor-de-corriente-en-pcb-verde.png"
+      ]
+    },
+    "voltage": {
+      "nombre": "Sensor de voltaje",
+      "principal": "sensores/modulo-sensor-de-voltaje-azul-2.png",
+      "alternativas": [
+        "sensores/modulo-sensor-de-voltaje-azul-1.png",
+        "sensores/modulo-sensor-de-voltaje-azul-4.png",
+        "sensores/modulo-sensor-de-voltaje-azul-5.png",
+        "sensores/modulo-sensor-de-voltaje-pcb-azul-1.png"
+      ]
+    },
+    "load_cell_hx711": {
+      "nombre": "Celda de carga con HX711",
+      "principal": "sensores/celda-de-carga-y-amplificador-hx711-4.png",
+      "alternativas": [
+        "sensores/celda-de-carga-y-modulo-amplificador-hx711-2.png",
+        "sensores/celda-de-carga-y-modulo-hx711-3.png"
+      ]
+    },
+    "gps_neo_6m": {
+      "nombre": "GPS NEO-6M",
+      "principal": "sensores/modulo-gps-neo-6m-con-antena-ceramica-3.png",
+      "alternativas": [
+        "sensores/modulo-gps-azul-con-antena-ceramica-4.png",
+        "sensores/modulo-gps-azul-con-antena-externa-1.png",
+        "sensores/modulo-gps-con-antena-parche-conectada-2.png"
+      ]
+    },
+    "rfid_rc522": {
+      "nombre": "RFID RC522",
+      "principal": "sensores/modulo-rfid-rc522-con-accesorios.png"
+    }
+  },
+  "actuadores": {
+    "led": {
+      "nombre": "LED rojo",
+      "principal": "actuadores/led-rojo-de-capsula-transparente-en-diagonal.png"
+    },
+    "relay_1ch": {
+      "nombre": "Relé de un canal",
+      "principal": "actuadores/modulo-de-rele-de-un-canal-7.png",
+      "alternativas": ["actuadores/modulo-rele-azul-para-arduino-3.png"]
+    }
+  },
+  "gateways": {
+    "industrial_gateway": {
+      "nombre": "Gateway industrial",
+      "principal": "gateways/gateway-industrial-inalambrico-robusto-con-antenas-y-puertos-4.png",
+      "alternativas": ["gateways/router-industrial-negro-con-doble-antena-5.png"]
+    }
+  },
+  "referencias": [
+    "referencias/collage-de-sensores-electronicos-2.png"
+  ],
+  "pendientes_identificacion": [
+    "sensores/modulo-iot-verde-con-sensores-integrados-6.png",
+    "sensores/modulo-sensor-azul-con-terminales-y-pines-3.png",
+    "sensores/modulo-sensor-barometrico-azul-3.png",
+    "sensores/modulo-sensor-pcb-morado-en-detalle-1.png"
+  ],
+  "faltantes_prioritarios": [
+    "bomba de agua",
+    "servomotor SG90",
+    "ventilador de 5 V o 12 V"
+  ]
+}
